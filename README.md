@@ -1,4 +1,4 @@
-# SAiDL
+# SAiDL Assignments
 Dear Team, 
 
 I am pleased to share that I have completed the assignments aligned with my interests and skillset. Below is a summary of my progress:
