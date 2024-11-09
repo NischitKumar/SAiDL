@@ -3,9 +3,9 @@ Dear Team,
 
 I am pleased to share that I have completed the assignments aligned with my interests and skillset. I'm grateful for the oppurtunity I'd been given to learn via these assignments. Below is a summary of my progress:
 
-Pruning & Sparsity: Part (a) attempted.
-Graph Neural Networks (GNN): Part (a) attempted.
-Variational AutoEncoder (VAE): Project completed.
+Pruning & Sparsity: Part (a) attempted. \n
+Graph Neural Networks (GNN): Part (a) attempted. \n
+Variational AutoEncoder (VAE): Project completed. \n
 
 I have included links to the code and relevant literature review for reference:-
 Custom Model Implementation on CIFAR-10: [Colab Notebook](https://drive.google.com/file/u/1/d/1AHQeGfyeZUsBXNPaFhUXSZM-Dw3XGjS-/view?usp=sharing)
