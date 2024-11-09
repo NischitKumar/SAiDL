@@ -1,7 +1,7 @@
 # SAiDL Assignments
 Dear Team, 
 
-I am pleased to share that I have completed the assignments aligned with my interests and skillset. Below is a summary of my progress:
+I am pleased to share that I have completed the assignments aligned with my interests and skillset. I'm grateful for the oppurtunity I'd been given to learn via these assignments. Below is a summary of my progress:
 
 Pruning & Sparsity: Part (a) attempted.
 Graph Neural Networks (GNN): Part (a) attempted.
